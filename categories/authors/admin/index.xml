@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akshith&#39;s Portfolio</title>
+    <link>https://akshit9.github.io/Akshith_Portfolio/authors/admin/</link>
+    <description>Recent content on Akshith&#39;s Portfolio</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://akshit9.github.io/Akshith_Portfolio/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Power Plan Recommender For Residential Customers Using Collaborative Filtering</title>
+      <link>https://akshit9.github.io/Akshith_Portfolio/publication/conference-paper/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshit9.github.io/Akshith_Portfolio/publication/conference-paper/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hands on NLP-Natural Language Processing</title>
+      <link>https://akshit9.github.io/Akshith_Portfolio/post/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshit9.github.io/Akshith_Portfolio/post/nlp/</guid>
+      <description>&lt;h1 id=&#34;set-captions-for-image-gallery&#34;&gt;Set captions for image gallery.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in 5 min</title>
+      <link>https://akshit9.github.io/Akshith_Portfolio/post/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshit9.github.io/Akshith_Portfolio/post/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proper Picture about Time Series Forecasting</title>
+      <link>https://akshit9.github.io/Akshith_Portfolio/post/time-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshit9.github.io/Akshith_Portfolio/post/time-series/</guid>
+      <description>&lt;h1 id=&#34;set-captions-for-image-gallery&#34;&gt;Set captions for image gallery.&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

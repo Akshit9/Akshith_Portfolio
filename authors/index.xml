@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Akshith&#39;s Portfolio</title>
+    <link>https://akshit9.github.io/Akshith_Portfolio/authors/</link>
+    <description>Recent content in Authors on Akshith&#39;s Portfolio</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://akshit9.github.io/Akshith_Portfolio/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://akshit9.github.io/Akshith_Portfolio/authors/admin/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshit9.github.io/Akshith_Portfolio/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Data Scientist with the ability to work on Machine learning problems in python. Besides, I have a passion for storytelling by seeing the data. Mostly my work will be AI-related concepts dealing with real-world problems. And, I had completed few different projects in data science using python. Learning new technologies and concepts in AI was my keen interest which usually growing in me daily.&lt;/p&gt;
+&lt;p&gt;My latest achievement is cracking the TensorFlow Developer Certification provided by Google.&lt;/p&gt;
+&lt;p&gt;Apart from these, I have an interest in writing the things that are learned in data science. And I started learning these concepts through online platforms which made my skills strong in this field as a self-learner, it is hard to grab the things. So, I decided to write blogs about data science in easy to understand with resources that help others.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
